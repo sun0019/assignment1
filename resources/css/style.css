@@ -10,7 +10,7 @@ h1{
   background-image: url("../images/pattern.jpeg");
 }
 
-h4{
+h3{
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -20,14 +20,14 @@ strong{
   color: blue
 }
 
-.brushes h4{
+.brushes h3{
   background-color: mediumspringgreen;
 }
 
-.frames h4{
+.frames h3{
   background-color: lightcoral;
 }
 
-.finnish h4{
+.finnish h3{
   background-color: skyblue;
 }
